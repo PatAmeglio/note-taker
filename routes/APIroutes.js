@@ -9,7 +9,12 @@ router.get("/notes", (req, res) =>{
     res.json(parse);
 })
 
-router.post
+router.post("/notes", (req, res) =>{
+    const notes = fs.readFileSync(path.join(__dirname, '../db/db.json'),"utf-8");
+    console.log("notes", notes);
+    const parse = JSON.parse(notes);
+    res.json(parse);
+})
 
 
 
