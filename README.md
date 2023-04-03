@@ -2,7 +2,7 @@
 
 # Deployed Page
 
-
+https://git.heroku.com/serene-beach-56535.git
 
 # Description
 
@@ -14,7 +14,7 @@ To delete a note, click the red trash bin by the note on the left.
 
 ## Installation
 
-No installtion needed, just visit the site!
+No installation needed, just visit the site deployed with the help of our friends at Heroku!
 
 ## Questions
 
