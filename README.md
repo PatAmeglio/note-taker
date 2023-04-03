@@ -2,7 +2,7 @@
 
 # Deployed Page
 
-https://git.heroku.com/serene-beach-56535.git
+https://serene-beach-56535.herokuapp.com/
 
 # Description
 
